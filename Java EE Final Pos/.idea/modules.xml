@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java EE Final Pos Backend/Java EE Final Pos Backend.iml" filepath="$PROJECT_DIR$/Java EE Final Pos Backend/Java EE Final Pos Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java EE Final Pos FrontEnd/Java EE Final Pos FrontEnd.iml" filepath="$PROJECT_DIR$/Java EE Final Pos FrontEnd/Java EE Final Pos FrontEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java EE Final POS + Maven/Java-EE-Final-POS-Maven.iml" filepath="$PROJECT_DIR$/../Java EE Final POS + Maven/Java-EE-Final-POS-Maven.iml" />
+    </modules>
+  </component>
+</project>
